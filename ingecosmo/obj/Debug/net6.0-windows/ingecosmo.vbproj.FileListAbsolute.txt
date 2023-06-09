@@ -1,0 +1,43 @@
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.exe
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.deps.json
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.runtimeconfig.json
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.dll
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.pdb
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.vbproj.AssemblyReference.cache
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.Form1.resources
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.vbproj.GenerateResource.cache
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.AssemblyInfoInputs.cache
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.AssemblyInfo.vb
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.vbproj.CoreCompileInputs.cache
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.dll
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\refint\ingecosmo.dll
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.pdb
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.genruntimeconfig.cache
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ref\ingecosmo.dll
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.principal.resources
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.Resources.resources
+C:\Taller Viisual Basic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.Trabajadores.resources
+C:\VisualBasic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.exe
+C:\VisualBasic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.deps.json
+C:\VisualBasic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.runtimeconfig.json
+C:\VisualBasic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.dll
+C:\VisualBasic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\ingecosmo.pdb
+C:\VisualBasic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\VisualBasic\ingecosmo\ingecosmo\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.vbproj.AssemblyReference.cache
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.Form1.resources
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.Resources.resources
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.principal.resources
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.Trabajadores.resources
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.vbproj.GenerateResource.cache
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.AssemblyInfoInputs.cache
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.AssemblyInfo.vb
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.vbproj.CoreCompileInputs.cache
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.vbproj.CopyComplete
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.dll
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\refint\ingecosmo.dll
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.pdb
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ingecosmo.genruntimeconfig.cache
+C:\VisualBasic\ingecosmo\ingecosmo\obj\Debug\net6.0-windows\ref\ingecosmo.dll
